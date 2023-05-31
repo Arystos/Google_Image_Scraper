@@ -73,6 +73,6 @@ python main.py
 ## Tools I used 🔨
 [Python Doc](https://docs.python.org/3/).
 
-[Chat GPT](chat.openai.com/chat.
+[Chat GPT](chat.openai.com/chat).
 
 [Phind.com](phind.com).
