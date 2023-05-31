@@ -69,3 +69,8 @@ python main.py
 **Happy scraping!**
 
 **NOTE:** Please respect Google's [robots.txt](https://www.google.com/robots.txt) file and use this responsibly. It is not recommended to download large numbers of images from Google Images, as this may be against their terms of service.
+
+## Tools I used 🔨
+[Python Doc](https://docs.python.org/3/)
+[Chat GPT](chat.openai.com/chat)
+[Phind.com](phind.com)
